@@ -1,5 +1,5 @@
-# SweetloveGroup
-This is a set of miscellaneous functions written in Prof. Sweetlove's group.
+# SweetloveGroup (Bacterial version)
+This is a set of miscellaneous functions written in Prof. Sweetlove's group. AJBones has edited these for work with bacterial models.
 
 Linux installation:
 1) Download the master file
